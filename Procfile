@@ -1,1 +1,1 @@
-worker: java -jar moosic.jar -nogui
+worker: java -jar moosic.jar
